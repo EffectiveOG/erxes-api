@@ -5,6 +5,9 @@
   "homepage": "https://erxes.io",
   "repository": "https://github.com/erxes/erxes-api",
   "bugs": "https://github.com/erxes/erxes-api/issues",
+  "engines": {
+    "node": "10.x.x"
+  },
   "keywords": [
     "node",
     "express",
@@ -131,7 +134,4 @@
     "typescript": "^3.6.4"
   },
   "snyk": true,
-  "engines": {
-    "node": "10.x.x"
-  }
 }
